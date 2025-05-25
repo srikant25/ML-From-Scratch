@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Deep Learning Models/Autoencoder" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Deep Learning Models/convolution-neural-network" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Optimization" vcs="Git" />
   </component>
 </project>
